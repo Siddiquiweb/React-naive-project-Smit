@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "001-react-native",
-    "slug": "001-react-native",
+    "name": "login-TodoApp",
+    "slug": "login-TodoApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
